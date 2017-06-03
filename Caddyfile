@@ -1,0 +1,4 @@
+http://35.185.248.32
+gzip
+log ./serve.log
+# basic setup
