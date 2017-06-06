@@ -1,4 +1,5 @@
 http://35.185.248.32
+root /var/www
 gzip
-log ./serve.log
+log /var/www/serve.log
 # basic setup
