@@ -1,5 +1,5 @@
 http://35.185.248.32
 root /var/www
 gzip
-log /var/www/serve.log
+log /var/log/caddy.log
 # basic setup
