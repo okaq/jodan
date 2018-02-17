@@ -2,7 +2,7 @@ http://35.185.248.32, http://yash.cash, yash.cash {
     redir https://yash.cash{uri}
 }
 
-https://35.185.248.32, https://yash.cash {
+https://yash.cash {
     root /var/www
     gzip
     log /var/log/caddy.log
