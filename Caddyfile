@@ -1,4 +1,4 @@
-http://35.185.248.32, yash.cash, http://yash.cash, https://yash.cash {
+http://35.185.248.32, http://yash.cash, https://yash.cash {
     root /var/www
     gzip
     log /var/log/caddy.log
