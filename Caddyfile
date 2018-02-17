@@ -1,6 +1,8 @@
-http://35.185.248.32, yash.cash, http://yash.cash {
+http://35.185.248.32, yash.cash, http://yash.cash, https://yash.cash {
     root /var/www
     gzip
     log /var/log/caddy.log
+    redir https://yash.cash{uri}
 }
 # basic setup
+# add https redirect
